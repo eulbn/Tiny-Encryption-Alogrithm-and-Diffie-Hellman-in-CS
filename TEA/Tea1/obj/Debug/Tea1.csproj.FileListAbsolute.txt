@@ -1,0 +1,17 @@
+C:\Users\student\Downloads\Tea1\Tea1\bin\Debug\Tea1.exe
+C:\Users\student\Downloads\Tea1\Tea1\bin\Debug\Tea1.pdb
+C:\Users\student\Downloads\Tea1\Tea1\obj\Debug\Tea1.csprojAssemblyReference.cache
+C:\Users\student\Downloads\Tea1\Tea1\obj\Debug\Tea1.Form1.resources
+C:\Users\student\Downloads\Tea1\Tea1\obj\Debug\Tea1.Properties.Resources.resources
+C:\Users\student\Downloads\Tea1\Tea1\obj\Debug\Tea1.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Tea1\Tea1\obj\Debug\Tea1.exe
+C:\Users\student\Downloads\Tea1\Tea1\obj\Debug\Tea1.pdb
+C:\Users\Hasan\Desktop\Tea1\Tea1\bin\Debug\Tea1.exe
+C:\Users\Hasan\Desktop\Tea1\Tea1\bin\Debug\Tea1.pdb
+C:\Users\Hasan\Desktop\Tea1\Tea1\obj\Debug\Tea1.Form1.resources
+C:\Users\Hasan\Desktop\Tea1\Tea1\obj\Debug\Tea1.Properties.Resources.resources
+C:\Users\Hasan\Desktop\Tea1\Tea1\obj\Debug\Tea1.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\Tea1\Tea1\obj\Debug\Tea1.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Tea1\Tea1\obj\Debug\Tea1.exe
+C:\Users\Hasan\Desktop\Tea1\Tea1\obj\Debug\Tea1.pdb
+C:\Users\Hasan\Desktop\Tea1\Tea1\obj\Debug\Tea1.csproj.AssemblyReference.cache
